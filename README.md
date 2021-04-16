@@ -10,4 +10,9 @@
 4. npm start
 (To start the Express server)
 
+5. npm install mongoose@5.10.9 mongoose-currency@0.2.0
+(To install versions of mongoose and mongoose-currency)
+
+
+
 
