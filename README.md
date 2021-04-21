@@ -13,6 +13,9 @@
 5. npm install mongoose@5.10.9 mongoose-currency@0.2.0
 (To install versions of mongoose and mongoose-currency)
 
+6. npm install express-session@1.17.1 session-file-store@1.5.0
+(To install express-session and session-file-store)
+
 
 
 
