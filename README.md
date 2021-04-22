@@ -19,6 +19,10 @@
 7. npm install passport@0.4.1 passport-local@1.0.0 passport-local-mongoose@6.0.1
 (To install the Passport and related Node modules)
 
+8. npm install passport-jwt@4.0.0 jsonwebtoken@8.5.1
+(To install passport-jwt and the jsonwebtoken modules)
+
+
 
 
 
