@@ -16,6 +16,9 @@
 6. npm install express-session@1.17.1 session-file-store@1.5.0
 (To install express-session and session-file-store)
 
+7. npm install passport@0.4.1 passport-local@1.0.0 passport-local-mongoose@6.0.1
+(To install the Passport and related Node modules)
+
 
 
 
