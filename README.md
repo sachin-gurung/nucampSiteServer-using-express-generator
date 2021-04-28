@@ -22,7 +22,8 @@
 8. npm install passport-jwt@4.0.0 jsonwebtoken@8.5.1
 (To install passport-jwt and the jsonwebtoken modules)
 
-
+9. npm install multer@1.4.2
+(To install Multer)
 
 
 
