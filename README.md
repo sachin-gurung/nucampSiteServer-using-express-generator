@@ -25,5 +25,7 @@
 9. npm install multer@1.4.2
 (To install Multer)
 
+10. npm install cors@2.8.5
+(To install the cors module)
 
 
