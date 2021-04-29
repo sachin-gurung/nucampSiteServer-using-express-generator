@@ -28,4 +28,6 @@
 10. npm install cors@2.8.5
 (To install the cors module)
 
+11. npm i passport-facebook-token@4.0.0
+(To install passport-facebook-token)
 
