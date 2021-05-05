@@ -110,7 +110,7 @@ favoriteRouter.route('/:campsiteId')
             // and add the campsiteId from the URL
             Favorite.create({
                 user: req.user._id,
-                campsites: req.params.campsiteId
+                campsites: (req.params.campsiteId)
             })
             .then(favorite => {
                 res.statusCode = 200;
